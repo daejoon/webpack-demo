@@ -59,4 +59,6 @@ fabric.properties
 /dist/bundle.js
 /node_modules
 /dist/*.png
+/dist/*.woff
+/dist/*.woff2
 
