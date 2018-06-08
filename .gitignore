@@ -58,4 +58,5 @@ fabric.properties
 /.idea
 /dist/bundle.js
 /node_modules
+/dist/*.png
 

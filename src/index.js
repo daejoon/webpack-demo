@@ -7,6 +7,11 @@ function component() {
     element.innerHTML = _.join(['Hello', 'webpack'], ' ');
     element.classList.add('hello');
 
+    // Add the image to out existing div.
+    var myIcon = new Image();
+
+    element.appendChild(myIcon);
+
     return element;
 }
 
