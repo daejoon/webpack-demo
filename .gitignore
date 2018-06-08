@@ -56,7 +56,7 @@ fabric.properties
 
 #jetbrains
 /.idea
-/dist/bundle.js
+/dist/*.js
 /node_modules
 /dist/*.png
 /dist/*.woff
